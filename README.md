@@ -1,1 +1,74 @@
-# employee_id
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee_id</title>
+    <link rel="shortcut icon" href="teamwork.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="card-container">
+        <div class="card">
+            <img src="one.jpg" alt="Swarn Lata"class="avatar">
+            <h2>Name: <span style="font-weight: bold;">Swarn Lata</span></h2>
+            <p><strong>Job Title:</strong>Software Engineer</p>
+            <p><strong>Department:</strong>Engineering</p>
+            <p><strong>Office Phone:</strong>+91 1234567890</p>
+            <p><strong>Mobile:</strong>+91 9835878184</p>
+            <p><strong>Email:</strong>swarnlata8292@gmail.com</p>
+                <div class="social-links">
+                    <a href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true" target="_blank">
+                        <img src="linkedin.png" alt="Linkedin"class="button">
+                    </a>
+                    <a href="https://github.com/" target="_blank">
+                        <img src="github.png" alt="Github"class="button">
+                    </a>
+                    <a href="https://www.instagram.com/?next=%2F&hl=en" target="_blank">
+                        <img src="instagram.png" alt="instagram"class="button">
+                    </a>
+                </div>
+        </div>
+        <div class="card">
+           <img src="two.jpg" alt="Swarn Lata"class="avatar">
+            <h2>Name: <span style="font-weight: bold;">Swarn Lata</span></h2>
+            <p><strong>Job Title:</strong>Web Developer</p>
+            <p><strong>Department:</strong>Developer</p>
+            <p><strong>Office Phone:</strong>+91 1234567890</p>
+            <p><strong>Mobile:</strong>+91 9835878184</p>
+            <p><strong>Email:</strong>swarnlata8292@gmail.com</p>
+           <div class="social-links">
+                    <a href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true" target="_blank">
+                        <img src="linkedin.png" alt="Linkedin"class="button">
+                    </a>
+                    <a href="https://github.com/" target="_blank">
+                        <img src="github.png" alt="Github"class="button">
+                    </a>
+                    <a href="https://www.instagram.com/?next=%2F&hl=en" target="_blank">
+                        <img src="instagram.png" alt="instagram"class="button">
+                    </a>
+                </div>
+        </div>    
+        <div class="card">
+            <img src="three.jpg" alt="Swarn Lata"class="avatar">
+            <h2>Name: <span style="font-weight: bold;">Swarn Lata</span></h2>
+            <p><strong>Job Title:</strong>Game Developer</p>
+            <p><strong>Department:</strong>Devrloper</p>
+            <p><strong>Office Phone:</strong>+91 1234567890</p>
+            <p><strong>Mobile:</strong>+91 9835878184</p>
+            <p><strong>Email:</strong>swarnlata8292@gmail.com</p>
+            <div class="social-links">
+                    <a href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true" target="_blank">
+                        <img src="linkedin.png" alt="Linkedin"class="button">
+                    </a>
+                    <a href="https://github.com/" target="_blank">
+                        <img src="github.png" alt="Github"class="button">
+                    </a>
+                    <a href="https://www.instagram.com/?next=%2F&hl=en" target="_blank">
+                        <img src="instagram.png" alt="instagram"class="button">
+                    </a>
+                </div>
+        </div>    
+    </div>
+</body>
+</html>
